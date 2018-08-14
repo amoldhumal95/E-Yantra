@@ -1,2 +1,0 @@
-# E-Yantra
-Eyantra codes
