@@ -175,6 +175,9 @@ def play(im):
 	
 	cv2.waitKey(0)
 	cv2.destroyAllWindows()
+#########################################################
+# Main Code Starts 
+#########################################################
 if __name__ == "__main__":
     #code for checking output for single image 
     #img = cv2.imread('test_images/test_image1.jpg')
